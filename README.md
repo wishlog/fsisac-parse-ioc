@@ -4,4 +4,4 @@ Python script to parse IOC from FS-ISAC feed
 The iocextract script from InQuest does works well on extracting hashes and IPs.
 However, email with [@] doesn't work. Also it were not able to extract domains.
 
-https://github.com/InQuest/python-iocextract
+This is a wrapper of https://github.com/InQuest/python-iocextract
